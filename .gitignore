@@ -1,5 +1,13 @@
-.env
 __pycache__/
 *.pyc
-node_modules/
+*.sqlite3
+*.db
 .venv/
+env/
+venv/
+node_modules/
+dist/
+*.faiss
+.vscode/
+.DS_Store
+Thumbs.db

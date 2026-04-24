@@ -1,0 +1,111 @@
+{
+    "GenAI Engineer": {
+        "next_roles": [
+            "LLM Engineer",
+            "AI Platform Engineer",
+            "Applied Scientist",
+            "MLOps Engineer"
+        ],
+        "adjacent_roles": [
+            "Machine Learning Engineer",
+            "NLP Engineer"
+        ],
+        "long_term_roles": [
+            "AI Architect",
+            "Research Scientist"
+        ]
+    },
+    "Machine Learning Engineer": {
+        "next_roles": [
+            "Applied Scientist",
+            "AI Platform Engineer",
+            "MLOps Engineer"
+        ],
+        "adjacent_roles": [
+            "Data Scientist",
+            "NLP Engineer"
+        ],
+        "long_term_roles": [
+            "AI Architect",
+            "Research Scientist"
+        ]
+    },
+    "NLP Engineer": {
+        "next_roles": [
+            "LLM Engineer",
+            "Applied Scientist"
+        ],
+        "adjacent_roles": [
+            "Machine Learning Engineer"
+        ],
+        "long_term_roles": [
+            "Research Scientist",
+            "AI Architect"
+        ]
+    },
+    "Backend Engineer": {
+        "next_roles": [
+            "Platform Engineer",
+            "Cloud Engineer"
+        ],
+        "adjacent_roles": [
+            "API Engineer",
+            "Distributed Systems Engineer"
+        ],
+        "long_term_roles": [
+            "Solutions Architect",
+            "Engineering Manager"
+        ]
+    },
+    "Cloud Platform Engineer": {
+        "next_roles": [
+            "Site Reliability Engineer",
+            "Platform Engineer"
+        ],
+        "adjacent_roles": [
+            "Cloud Security Engineer",
+            "DevOps Engineer"
+        ],
+        "long_term_roles": [
+            "Cloud Architect",
+            "Infrastructure Architect"
+        ]
+    },
+    "Data Analyst": {
+        "next_roles": [
+            "Analytics Engineer",
+            "Data Scientist"
+        ],
+        "adjacent_roles": [
+            "BI Engineer"
+        ],
+        "long_term_roles": [
+            "Machine Learning Engineer",
+            "AI Engineer"
+        ]
+    },
+    "Data Engineer": {
+        "next_roles": [
+            "Analytics Engineer",
+            "ML Engineer"
+        ],
+        "adjacent_roles": [
+            "Platform Engineer"
+        ],
+        "long_term_roles": [
+            "Data Architect",
+            "AI Platform Engineer"
+        ]
+    },
+    "SAP Engineer": {
+        "next_roles": [
+            "SAP Technical Consultant"
+        ],
+        "adjacent_roles": [
+            "Enterprise Systems Engineer"
+        ],
+        "long_term_roles": [
+            "Enterprise Architect"
+        ]
+    }
+}

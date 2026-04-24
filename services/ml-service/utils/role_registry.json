@@ -1,0 +1,454 @@
+{
+    "AI_ML": {
+        "GenAI Engineer": [
+            "llm",
+            "rag",
+            "prompt engineering",
+            "transformers",
+            "huggingface",
+            "bert",
+            "semantic search",
+            "vector database",
+            "embeddings",
+            "llm pipelines",
+            "inference pipelines"
+        ],
+        "Prompt Engineer": [
+            "prompt engineering",
+            "few-shot prompting",
+            "instruction tuning",
+            "chain-of-thought prompting",
+            "llm"
+        ],
+        "LLM Engineer": [
+            "llm",
+            "transformers",
+            "fine tuning",
+            "rag",
+            "tokenization",
+            "huggingface"
+        ],
+        "Machine Learning Engineer": [
+            "pytorch",
+            "tensorflow",
+            "scikit-learn",
+            "feature engineering",
+            "training pipelines",
+            "mlops"
+        ],
+        "Deep Learning Engineer": [
+            "cnn",
+            "rnn",
+            "transformers",
+            "gpu training",
+            "pytorch",
+            "tensorflow"
+        ],
+        "AI Research Engineer": [
+            "deep learning",
+            "optimization",
+            "transformers",
+            "research experimentation"
+        ],
+        "NLP Engineer": [
+            "nlp",
+            "bert",
+            "text classification",
+            "named entity recognition",
+            "transformers"
+        ],
+        "Computer Vision Engineer": [
+            "opencv",
+            "cnn",
+            "image classification",
+            "object detection",
+            "segmentation"
+        ],
+        "MLOps Engineer": [
+            "mlflow",
+            "kubeflow",
+            "model deployment",
+            "pipeline automation",
+            "experiment tracking"
+        ],
+        "AI Solutions Architect": [
+            "llm architecture",
+            "rag pipelines",
+            "vector database",
+            "scalable inference"
+        ]
+    },
+    "DATA": {
+        "Data Scientist": [
+            "python",
+            "statistics",
+            "machine learning",
+            "feature engineering",
+            "pandas",
+            "numpy"
+        ],
+        "Data Analyst": [
+            "sql",
+            "excel",
+            "tableau",
+            "power bi",
+            "reporting"
+        ],
+        "Data Engineer": [
+            "etl",
+            "spark",
+            "airflow",
+            "hadoop",
+            "data pipelines"
+        ],
+        "Analytics Engineer": [
+            "dbt",
+            "sql",
+            "data modeling"
+        ],
+        "BI Engineer": [
+            "tableau",
+            "power bi",
+            "dashboarding"
+        ],
+        "Big Data Engineer": [
+            "spark",
+            "hadoop",
+            "kafka"
+        ],
+        "DataOps Engineer": [
+            "etl automation",
+            "workflow orchestration"
+        ],
+        "Data Platform Engineer": [
+            "data lake",
+            "distributed storage",
+            "pipeline infrastructure"
+        ]
+    },
+    "BACKEND": {
+        "Backend Engineer": [
+            "python",
+            "nodejs",
+            "java",
+            "rest api",
+            "microservices",
+            "sql"
+        ],
+        "Python Backend Engineer": [
+            "python",
+            "fastapi",
+            "django",
+            "flask"
+        ],
+        "Java Backend Engineer": [
+            "java",
+            "spring",
+            "spring boot"
+        ],
+        "Node.js Engineer": [
+            "nodejs",
+            "express",
+            "rest api"
+        ],
+        "Go Backend Engineer": [
+            "golang",
+            "grpc",
+            "distributed systems"
+        ],
+        "API Engineer": [
+            "rest api",
+            "graphql",
+            "openapi"
+        ],
+        "Microservices Engineer": [
+            "microservices",
+            "docker",
+            "kubernetes"
+        ],
+        "Distributed Systems Engineer": [
+            "distributed systems",
+            "event streaming",
+            "kafka"
+        ],
+        "Platform Backend Engineer": [
+            "backend architecture",
+            "scalability"
+        ],
+        "Integration Engineer": [
+            "api integration",
+            "middleware"
+        ]
+    },
+    "FRONTEND": {
+        "Frontend Engineer": [
+            "react",
+            "javascript",
+            "typescript",
+            "html",
+            "css"
+        ],
+        "React Engineer": [
+            "react",
+            "redux",
+            "hooks"
+        ],
+        "Angular Engineer": [
+            "angular",
+            "rxjs"
+        ],
+        "Vue Engineer": [
+            "vue",
+            "vuex"
+        ],
+        "UI Engineer": [
+            "ui design",
+            "css",
+            "responsive design"
+        ],
+        "Web Performance Engineer": [
+            "performance optimization",
+            "lighthouse"
+        ],
+        "Accessibility Engineer": [
+            "accessibility",
+            "wcag"
+        ],
+        "Next.js Engineer": [
+            "nextjs",
+            "ssr"
+        ]
+    },
+    "FULLSTACK": {
+        "Full Stack Engineer": [
+            "react",
+            "nodejs",
+            "fastapi",
+            "sql"
+        ],
+        "MERN Stack Engineer": [
+            "mongodb",
+            "express",
+            "react",
+            "nodejs"
+        ],
+        "MEAN Stack Engineer": [
+            "mongodb",
+            "express",
+            "angular",
+            "nodejs"
+        ],
+        "JAMstack Engineer": [
+            "nextjs",
+            "serverless",
+            "cdn"
+        ],
+        "Serverless Engineer": [
+            "lambda",
+            "serverless framework"
+        ],
+        "Web Application Engineer": [
+            "rest api",
+            "frontend integration"
+        ]
+    },
+    "CLOUD": {
+        "Cloud Engineer": [
+            "aws",
+            "azure",
+            "gcp"
+        ],
+        "Cloud Architect": [
+            "cloud architecture",
+            "high availability"
+        ],
+        "AWS Engineer": [
+            "aws",
+            "ec2",
+            "s3",
+            "lambda"
+        ],
+        "Azure Engineer": [
+            "azure",
+            "azure functions"
+        ],
+        "GCP Engineer": [
+            "gcp",
+            "bigquery"
+        ],
+        "Multi-Cloud Engineer": [
+            "multi-cloud",
+            "cloud networking"
+        ],
+        "Cloud Security Engineer": [
+            "cloud security",
+            "iam"
+        ],
+        "Cloud Platform Engineer": [
+            "platform engineering",
+            "cloud automation"
+        ]
+    },
+    "DEVOPS_SRE": {
+        "DevOps Engineer": [
+            "docker",
+            "kubernetes",
+            "terraform",
+            "ci/cd"
+        ],
+        "Site Reliability Engineer": [
+            "sre",
+            "monitoring",
+            "observability"
+        ],
+        "Platform Engineer": [
+            "kubernetes",
+            "infra automation"
+        ],
+        "Release Engineer": [
+            "release pipelines"
+        ],
+        "Build Engineer": [
+            "build automation"
+        ],
+        "Infrastructure Engineer": [
+            "infrastructure provisioning"
+        ],
+        "Observability Engineer": [
+            "grafana",
+            "prometheus"
+        ],
+        "CI/CD Engineer": [
+            "github actions",
+            "jenkins"
+        ]
+    },
+    "SECURITY": {
+        "Security Engineer": [
+            "encryption",
+            "secure coding",
+            "oauth"
+        ],
+        "Cybersecurity Analyst": [
+            "siem",
+            "threat detection"
+        ],
+        "Penetration Tester": [
+            "penetration testing",
+            "ethical hacking"
+        ],
+        "Ethical Hacker": [
+            "vulnerability scanning"
+        ],
+        "IAM Engineer": [
+            "identity access management"
+        ],
+        "Security Architect": [
+            "security architecture"
+        ],
+        "Application Security Engineer": [
+            "appsec"
+        ],
+        "Cloud Security Engineer": [
+            "cloud iam"
+        ]
+    },
+    "MOBILE": {
+        "Android Developer": [
+            "kotlin",
+            "android sdk"
+        ],
+        "iOS Developer": [
+            "swift",
+            "xcode"
+        ],
+        "Flutter Developer": [
+            "flutter",
+            "dart"
+        ],
+        "React Native Developer": [
+            "react native"
+        ],
+        "Cross-Platform Mobile Engineer": [
+            "cross-platform"
+        ],
+        "Mobile Platform Engineer": [
+            "mobile architecture"
+        ]
+    },
+    "SYSTEMS_EMBEDDED": {
+        "Embedded Systems Engineer": [
+            "c",
+            "c++",
+            "firmware"
+        ],
+        "Firmware Engineer": [
+            "microcontrollers"
+        ],
+        "IoT Engineer": [
+            "iot",
+            "edge computing"
+        ],
+        "Robotics Engineer": [
+            "robotics",
+            "control systems"
+        ],
+        "Edge AI Engineer": [
+            "edge ai"
+        ],
+        "Real-Time Systems Engineer": [
+            "rtos"
+        ]
+    },
+    "DATABASE_INFRA": {
+        "Database Administrator": [
+            "postgresql",
+            "mysql"
+        ],
+        "Database Engineer": [
+            "query optimization"
+        ],
+        "Data Warehouse Engineer": [
+            "snowflake",
+            "redshift"
+        ],
+        "Storage Engineer": [
+            "distributed storage"
+        ],
+        "Reliability Engineer": [
+            "fault tolerance"
+        ],
+        "Performance Engineer": [
+            "performance tuning"
+        ]
+    },
+    "EMERGING_TECH": {
+        "Blockchain Developer": [
+            "solidity",
+            "ethereum"
+        ],
+        "Smart Contract Engineer": [
+            "smart contracts"
+        ],
+        "AR/VR Engineer": [
+            "unity",
+            "vr"
+        ],
+        "Game Developer": [
+            "unreal engine"
+        ],
+        "RPA Developer": [
+            "uipath"
+        ],
+        "Salesforce Developer": [
+            "salesforce"
+        ],
+        "SAP Engineer": [
+            "sap"
+        ],
+        "Low-Code Engineer": [
+            "zapier",
+            "servicenow"
+        ]
+    }
+}

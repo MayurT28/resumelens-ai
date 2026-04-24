@@ -1,0 +1,612 @@
+{
+    "GenAI Engineer": {
+        "core": [
+            "llm",
+            "transformers",
+            "prompt engineering",
+            "rag pipelines",
+            "fine tuning",
+            "instruction tuning",
+            "embedding models"
+        ],
+        "frameworks": [
+            "langchain",
+            "langgraph",
+            "llamaindex",
+            "huggingface",
+            "trl",
+            "vllm",
+            "ollama"
+        ],
+        "vector_databases": [
+            "faiss",
+            "pinecone",
+            "milvus",
+            "weaviate",
+            "chroma"
+        ],
+        "deployment": [
+            "fastapi",
+            "docker",
+            "kubernetes",
+            "grpc",
+            "rest api"
+        ],
+        "cloud": [
+            "aws",
+            "azure",
+            "gcp"
+        ]
+    },
+    "Machine Learning Engineer": {
+        "core": [
+            "machine learning",
+            "feature engineering",
+            "model evaluation",
+            "model deployment",
+            "hyperparameter tuning"
+        ],
+        "frameworks": [
+            "pytorch",
+            "tensorflow",
+            "keras",
+            "scikit-learn"
+        ],
+        "data": [
+            "numpy",
+            "pandas",
+            "sql"
+        ],
+        "deployment": [
+            "mlflow",
+            "kubeflow",
+            "docker"
+        ]
+    },
+    "NLP Engineer": {
+        "core": [
+            "nlp",
+            "tokenization",
+            "text classification",
+            "named entity recognition",
+            "language modeling"
+        ],
+        "libraries": [
+            "spacy",
+            "nltk",
+            "gensim",
+            "huggingface"
+        ],
+        "models": [
+            "bert",
+            "gpt",
+            "t5",
+            "roberta"
+        ]
+    },
+    "Data Scientist": {
+        "core": [
+            "statistical modeling",
+            "predictive analytics",
+            "feature engineering",
+            "data visualization"
+        ],
+        "languages": [
+            "python",
+            "r",
+            "sql"
+        ],
+        "libraries": [
+            "numpy",
+            "pandas",
+            "matplotlib",
+            "seaborn",
+            "scikit-learn"
+        ]
+    },
+    "Data Engineer": {
+        "core": [
+            "etl pipelines",
+            "data warehousing",
+            "data ingestion",
+            "data modeling"
+        ],
+        "big_data": [
+            "spark",
+            "hadoop",
+            "hive",
+            "kafka",
+            "flink"
+        ],
+        "orchestration": [
+            "airflow",
+            "prefect",
+            "dagster"
+        ],
+        "databases": [
+            "snowflake",
+            "redshift",
+            "bigquery",
+            "postgresql",
+            "mysql"
+        ]
+    },
+    "Analytics Engineer": {
+        "core": [
+            "data modeling",
+            "etl",
+            "analytics pipelines"
+        ],
+        "tools": [
+            "dbt",
+            "snowflake",
+            "bigquery"
+        ],
+        "visualization": [
+            "tableau",
+            "power bi",
+            "looker"
+        ]
+    },
+    "Backend Engineer": {
+        "languages": [
+            "python",
+            "java",
+            "go",
+            "nodejs",
+            "c#"
+        ],
+        "frameworks": [
+            "fastapi",
+            "django",
+            "flask",
+            "spring boot",
+            "express"
+        ],
+        "architecture": [
+            "microservices",
+            "rest api",
+            "graphql",
+            "event driven architecture"
+        ],
+        "databases": [
+            "postgresql",
+            "mysql",
+            "mongodb",
+            "redis"
+        ]
+    },
+    "Frontend Engineer": {
+        "core": [
+            "html",
+            "css",
+            "javascript"
+        ],
+        "frameworks": [
+            "react",
+            "angular",
+            "vue",
+            "nextjs"
+        ],
+        "styling": [
+            "tailwind",
+            "sass",
+            "bootstrap"
+        ],
+        "testing": [
+            "jest",
+            "cypress"
+        ]
+    },
+    "Full Stack Developer": {
+        "frontend": [
+            "react",
+            "angular",
+            "vue",
+            "html",
+            "css",
+            "tailwind"
+        ],
+        "backend": [
+            "nodejs",
+            "django",
+            "spring boot",
+            "flask"
+        ],
+        "languages": [
+            "javascript",
+            "typescript",
+            "python",
+            "java"
+        ],
+        "databases": [
+            "mongodb",
+            "mysql",
+            "postgresql"
+        ]
+    },
+    "DevOps Engineer": {
+        "containers": [
+            "docker",
+            "kubernetes",
+            "helm"
+        ],
+        "iac": [
+            "terraform",
+            "cloudformation",
+            "pulumi"
+        ],
+        "ci_cd": [
+            "jenkins",
+            "github actions",
+            "gitlab ci"
+        ],
+        "monitoring": [
+            "prometheus",
+            "grafana",
+            "elk stack"
+        ],
+        "scripting": [
+            "bash",
+            "python"
+        ]
+    },
+    "Site Reliability Engineer": {
+        "core": [
+            "sre",
+            "incident management",
+            "high availability",
+            "observability"
+        ],
+        "monitoring": [
+            "prometheus",
+            "grafana",
+            "datadog"
+        ],
+        "containers": [
+            "docker",
+            "kubernetes"
+        ],
+        "cloud": [
+            "aws",
+            "azure",
+            "gcp"
+        ]
+    },
+    "Platform Engineer": {
+        "containers": [
+            "docker",
+            "kubernetes"
+        ],
+        "iac": [
+            "terraform",
+            "ansible"
+        ],
+        "ci_cd": [
+            "github actions",
+            "jenkins"
+        ],
+        "cloud": [
+            "aws",
+            "azure",
+            "gcp"
+        ]
+    },
+    "Cloud Engineer": {
+        "providers": [
+            "aws",
+            "azure",
+            "gcp"
+        ],
+        "compute": [
+            "ec2",
+            "lambda",
+            "cloud functions"
+        ],
+        "storage": [
+            "s3",
+            "blob storage",
+            "cloud storage"
+        ],
+        "networking": [
+            "vpc",
+            "cdn",
+            "load balancing"
+        ]
+    },
+    "MLOps Engineer": {
+        "deployment": [
+            "mlflow",
+            "kubeflow",
+            "airflow"
+        ],
+        "containers": [
+            "docker",
+            "kubernetes"
+        ],
+        "ci_cd": [
+            "jenkins",
+            "github actions"
+        ],
+        "monitoring": [
+            "prometheus",
+            "grafana"
+        ]
+    },
+    "Cybersecurity Analyst": {
+        "core": [
+            "vulnerability assessment",
+            "penetration testing",
+            "incident response"
+        ],
+        "tools": [
+            "wireshark",
+            "burp suite",
+            "metasploit",
+            "nmap"
+        ],
+        "security": [
+            "encryption",
+            "endpoint security",
+            "network security"
+        ]
+    },
+    "Cloud Security Engineer": {
+        "core": [
+            "cloud security",
+            "identity management",
+            "threat detection"
+        ],
+        "tools": [
+            "iam",
+            "kms",
+            "vault"
+        ],
+        "cloud": [
+            "aws",
+            "azure",
+            "gcp"
+        ]
+    },
+    "SAP Engineer": {
+        "modules": [
+            "sap abap",
+            "sap hana",
+            "sap fico",
+            "sap mm",
+            "sap sd"
+        ]
+    },
+    "Salesforce Developer": {
+        "core": [
+            "apex",
+            "lightning web components",
+            "salesforce crm"
+        ],
+        "tools": [
+            "salesforce cli",
+            "visualforce"
+        ]
+    },
+    "ServiceNow Engineer": {
+        "core": [
+            "servicenow scripting",
+            "itsm",
+            "workflow automation"
+        ]
+    },
+    "Blockchain Developer": {
+        "core": [
+            "smart contracts",
+            "web3",
+            "cryptography"
+        ],
+        "platforms": [
+            "ethereum",
+            "hyperledger",
+            "solidity"
+        ]
+    },
+    "IoT Engineer": {
+        "core": [
+            "embedded systems",
+            "sensor integration",
+            "iot protocols"
+        ],
+        "protocols": [
+            "mqtt",
+            "coap"
+        ],
+        "hardware": [
+            "arduino",
+            "raspberry pi"
+        ]
+    },
+    "Embedded Engineer": {
+        "languages": [
+            "c",
+            "c++"
+        ],
+        "platforms": [
+            "rtos",
+            "microcontrollers"
+        ],
+        "tools": [
+            "embedded linux"
+        ]
+    },
+    "Network Engineer": {
+        "core": [
+            "routing",
+            "switching",
+            "network troubleshooting"
+        ],
+        "protocols": [
+            "tcp/ip",
+            "dns",
+            "dhcp"
+        ],
+        "tools": [
+            "wireshark",
+            "cisco ios"
+        ]
+    },
+    "RPA Developer": {
+        "platforms": [
+            "uipath",
+            "automation anywhere",
+            "blue prism"
+        ]
+    },
+    "Mobile Developer": {
+        "languages": [
+            "kotlin",
+            "swift",
+            "dart"
+        ],
+        "frameworks": [
+            "flutter",
+            "react native"
+        ]
+    },
+    "Game Developer": {
+        "engines": [
+            "unity",
+            "unreal engine"
+        ],
+        "languages": [
+            "c#",
+            "c++"
+        ]
+    },
+    "Cloud Platform Engineer": {
+        "core": [
+            "aws",
+            "azure",
+            "gcp",
+            "docker",
+            "kubernetes",
+            "terraform",
+            "helm"
+        ],
+        "platform": [
+            "linux",
+            "networking",
+            "cloud architecture",
+            "distributed systems"
+        ],
+        "automation": [
+            "ci cd",
+            "github actions",
+            "jenkins",
+            "infrastructure as code"
+        ],
+        "monitoring": [
+            "prometheus",
+            "grafana",
+            "cloudwatch"
+        ]
+    },
+    "Security Engineer": {
+        "core": [
+            "network security",
+            "application security",
+            "cloud security",
+            "identity access management",
+            "encryption"
+        ],
+        "tools": [
+            "burp suite",
+            "metasploit",
+            "wireshark",
+            "nmap",
+            "vault"
+        ],
+        "standards": [
+            "owasp",
+            "zero trust",
+            "secure coding"
+        ]
+    },
+    "Full Stack Engineer": {
+        "frontend": [
+            "react",
+            "angular",
+            "vue",
+            "html",
+            "css",
+            "tailwind"
+        ],
+        "backend": [
+            "nodejs",
+            "django",
+            "spring boot",
+            "flask"
+        ],
+        "languages": [
+            "javascript",
+            "typescript",
+            "python",
+            "java"
+        ],
+        "databases": [
+            "mongodb",
+            "mysql",
+            "postgresql"
+        ]
+    },
+    "Penetration Tester": {
+        "core": [
+            "penetration testing",
+            "vulnerability assessment",
+            "ethical hacking",
+            "exploit development",
+            "security auditing"
+        ],
+        "tools": [
+            "burp suite",
+            "metasploit",
+            "nmap",
+            "wireshark",
+            "sqlmap"
+        ],
+        "security": [
+            "owasp",
+            "network security",
+            "application security",
+            "secure coding",
+            "encryption"
+        ]
+    },
+    "Platform Backend Engineer": {
+        "languages": [
+            "java",
+            "python",
+            "go",
+            "nodejs"
+        ],
+        "frameworks": [
+            "spring boot",
+            "fastapi",
+            "django",
+            "express"
+        ],
+        "architecture": [
+            "microservices",
+            "distributed systems",
+            "rest api",
+            "event driven architecture"
+        ],
+        "databases": [
+            "postgresql",
+            "mysql",
+            "redis",
+            "mongodb"
+        ],
+        "platform": [
+            "kubernetes",
+            "docker",
+            "cloud infrastructure"
+        ]
+    }
+}
